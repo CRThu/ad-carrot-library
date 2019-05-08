@@ -1,14 +1,8 @@
-# ad15-basic-library
-My Basic Library - Altium Designer 15
+# ad-carrot-library
+My Library - Altium Designer 18
 
-# include
-* ad15-basic-library  
-  * devices  
-    * SMT resistance  
-    * SMT capacitance  
-    * AMS1117  
-    * IPEX v1  
-    * PassiveAntenna25x25  
+# download 
+[ad-carrot-library](https://github.com/CRThu/ad-carrot-library/tree/master/library)
     
 # update  
 This project will be updated aperiodically in the future.  
