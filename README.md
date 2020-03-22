@@ -1,12 +1,12 @@
 # ad-carrot-library
-My Library - Altium Designer 18
+My Library - Altium Designer
 
 # download 
 [ad-carrot-library](https://github.com/CRThu/ad-carrot-library/tree/master/library)
     
 # update  
 This project will be updated aperiodically in the future.  
-If you want to use other basic packages,you can create an issue to tell me.  
+If you want to use other basic packages,you can create an issue.  
 
 # copyright
 
