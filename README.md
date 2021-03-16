@@ -1,24 +1,24 @@
 # ad-carrot-library
-My Library - Altium Designer
 
-# download 
-[ad-carrot-library](https://github.com/CRThu/ad-carrot-library/tree/master/library)
-    
-# update  
-This project will be updated aperiodically in the future.  
-If you want to use other basic packages,you can create an issue.  
+Carrot's Altium Designer Library
 
-# copyright
+## Download
 
-Copyright YummyCarrot(huyuzhe)  
+[carrot_lib.IntLib](https://github.com/CRThu/ad-carrot-library/raw/master/library/Project%20Outputs%20for%20carrot_lib/carrot_lib.IntLib)
 
-My Github Location : [YummyCarrot's Github](https://github.com/CRThu)
+[Mirror of carrot_lib.IntLib For China](https://hub.fastgit.org/CRThu/ad-carrot-library/raw/master/library/Project%20Outputs%20for%20carrot_lib/carrot_lib.IntLib)
+
+## Copyright
+
+Copyright Carrot Hu
+
+My Github Location : [Carrot's GitHub](https://github.com/CRThu)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-http://www.apache.org/licenses/LICENSE-2.0
+<http://www.apache.org/licenses/LICENSE-2.0>
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
