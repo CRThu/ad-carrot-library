@@ -1,16 +1,18 @@
 # ad-carrot-library
 
-Carrot's Altium Designer Library
+Carrot's Library for Altium Designer
 
-## Download
+## Download/下载
 
-[carrot_lib.IntLib](https://github.com/CRThu/ad-carrot-library/raw/master/library/Project%20Outputs%20for%20carrot_lib/carrot_lib.IntLib)
+[carrot_lib.IntLib Download Link](https://raw.githubusercontent.com/CRThu/ad-carrot-library/master/library/Project%20Outputs%20for%20carrot_lib/carrot_lib.IntLib)
 
-[Mirror of carrot_lib.IntLib For China](https://hub.fastgit.org/CRThu/ad-carrot-library/raw/master/library/Project%20Outputs%20for%20carrot_lib/carrot_lib.IntLib)
+[carrot_lib.IntLib 大陆地区镜像下载](https://ghproxy.com/https://raw.githubusercontent.com/CRThu/ad-carrot-library/master/library/Project%20Outputs%20for%20carrot_lib/carrot_lib.IntLib)
 
-## Copyright
+## Components
 
-Copyright Carrot Hu
+(TO BE UPDATED)
+
+## License
 
 My Github Location : [Carrot's GitHub](https://github.com/CRThu)
 
