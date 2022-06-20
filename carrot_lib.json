@@ -105,6 +105,7 @@
             "XC6206"
         ],
         "General": [
+            "2SK30ATM",
             "Diode",
             "Cap",
             "Ferrite Bead",
@@ -113,6 +114,7 @@
             "KF301-3P",
             "LED",
             "NPN",
+            "NSL32SR3",
             "OP AMP 2#",
             "PNP",
             "Relay-DPDT",
