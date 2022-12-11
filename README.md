@@ -10,7 +10,7 @@ Carrot's Library for Altium Designer
 
 ## Components
 
-(TO BE UPDATED)
+[carrot_lib.IntLib.log](https://github.com/CRThu/ad-carrot-library/blob/master/library/Project%20Outputs%20for%20carrot_lib/carrot_lib.IntLib.log)
 
 ## License
 
