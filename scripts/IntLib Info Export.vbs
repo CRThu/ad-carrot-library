@@ -25,5 +25,18 @@ Sub bRunClick(Sender)
     For I = 0 To AvailableIntLibCount - 1
         mLogs.Lines.Add(IntLibMan.GetComponentName(AvailableIntLibPath, I))
     Next
+
+    Dim fso, MyFile
+    Set fso = CreateObject("Scripting.FileSystemObject")
+    Set MyFile = fso.CreateTextFile(AvailableIntLibPath & ".log", True)
+
+    MyFile.WriteLine("Path:" & cbIntLibs.Text)
+    MyFile.WriteLine("Components Count:" & IntToStr(AvailableIntLibCount))
+    MyFile.WriteLine("IntLib Component Name:")
+    For I = 0 To AvailableIntLibCount - 1
+        MyFile.WriteLine(IntLibMan.GetComponentName(AvailableIntLibPath, I))
+    Next
+    MyFile.Close
+
 End Sub
 
