@@ -1,5 +1,5 @@
 Path:D:\GitHub\ad-carrot-library\library\Project Outputs for carrot_lib\carrot_lib.IntLib
-Components Count:245
+Components Count:252
 IntLib Component Name:
 23LC1024
 24LC256
@@ -98,6 +98,12 @@ Header 9
 Header 9X2
 HMC830
 ICM20600
+INA138
+INA168
+INA180A
+INA193
+INA194
+INA195
 INA226
 Inductor Chip
 Inductor Chip2
@@ -127,6 +133,7 @@ LMR14030
 LMR14050
 LMR16030P
 LMR16030S
+LMR62014
 Logo Artix7
 Logo Carrot
 Logo Carrot Inside
