@@ -1,5 +1,5 @@
 Path:D:\GitHub\ad-carrot-library\library\Project Outputs for carrot_lib\carrot_lib.IntLib
-Components Count:256
+Components Count:257
 IntLib Component Name:
 23LC1024
 24LC256
@@ -168,6 +168,7 @@ NE5532
 NEO-M8N
 NPN
 NSL32SR3
+OP AMP 1#
 OP AMP 2#
 OP07
 OP2177
