@@ -1,5 +1,5 @@
 Path:D:\Library\ad-carrot-library\library\Project Outputs for carrot_lib\carrot_lib.IntLib
-Components Count:258
+Components Count:259
 IntLib Component Name:
 23LC1024
 24LC256
@@ -25,6 +25,7 @@ BAT54
 BAT54A
 BAT54C
 BAT54S
+BAV99
 BME280
 BMI160
 BMM150
