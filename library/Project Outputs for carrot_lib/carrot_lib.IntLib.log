@@ -1,5 +1,5 @@
 Path:D:\Library\ad-carrot-library\library\Project Outputs for carrot_lib\carrot_lib.IntLib
-Components Count:262
+Components Count:265
 IntLib Component Name:
 23LC1024
 24LC256
@@ -42,6 +42,7 @@ CON BTB 80P
 CON FPC 40P
 CS5341
 CY7C68013A-56PVXC
+DAC8830
 DC-005
 DC3-10P
 DC3-14P
@@ -174,6 +175,7 @@ OP AMP 2#
 OP07
 OP2177
 OPA1612
+OPA1637
 OPA1656
 OPA827
 OPA847
@@ -221,6 +223,7 @@ Switch-DIP3
 SX1278
 TB6612FNG
 TestPoint
+THP210
 TL081
 TL082
 TL431
