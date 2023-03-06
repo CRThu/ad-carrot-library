@@ -1,5 +1,5 @@
 Path:D:\Library\ad-carrot-library\library\Project Outputs for carrot_lib\carrot_lib.IntLib
-Components Count:266
+Components Count:267
 IntLib Component Name:
 23LC1024
 24LC256
@@ -16,6 +16,7 @@ ADG708
 ADP7118ACP
 ADP7118ARD
 ADP7118AUJ
+ADP7142AUJ
 ADP7182ACP
 ADP7182AUJ
 ADR421
