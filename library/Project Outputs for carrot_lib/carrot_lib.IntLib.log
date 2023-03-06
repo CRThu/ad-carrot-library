@@ -1,5 +1,5 @@
 Path:D:\Library\ad-carrot-library\library\Project Outputs for carrot_lib\carrot_lib.IntLib
-Components Count:265
+Components Count:266
 IntLib Component Name:
 23LC1024
 24LC256
@@ -133,6 +133,7 @@ Link-3X8
 LM2731
 LM2733
 LM5007
+LM5164
 LMR14030
 LMR14050
 LMR16030P
