@@ -1,5 +1,5 @@
 Path:D:\Library\ad-carrot-library\library\Project Outputs for carrot_lib\carrot_lib.IntLib
-Components Count:269
+Components Count:270
 IntLib Component Name:
 23LC1024
 24LC256
@@ -202,6 +202,7 @@ SMA
 SN74HC238
 SN74HC574
 SN74LV4051
+SN74LVC138A
 SN74LVC1G04
 SN74LVC1G08
 SN74LVC1G80
