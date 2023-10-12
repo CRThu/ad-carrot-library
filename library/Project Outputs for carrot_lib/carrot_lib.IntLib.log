@@ -1,5 +1,5 @@
 Path:D:\Library\ad-carrot-library\library\Project Outputs for carrot_lib\carrot_lib.IntLib
-Components Count:270
+Components Count:271
 IntLib Component Name:
 23LC1024
 24LC256
@@ -157,6 +157,7 @@ M3
 MAX17043
 MAX44009
 MAX4477
+MAX4638
 MB506
 MC34063
 Module 12Vto5V,3v3
