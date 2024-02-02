@@ -1,5 +1,5 @@
 Path:D:\Library\ad-carrot-library\library\Project Outputs for carrot_lib\carrot_lib.IntLib
-Components Count:271
+Components Count:273
 IntLib Component Name:
 23LC1024
 24LC256
@@ -141,6 +141,8 @@ LMR14030
 LMR14050
 LMR16030P
 LMR16030S
+LMR51420
+LMR51430
 LMR62014
 Logo Artix7
 Logo Carrot
