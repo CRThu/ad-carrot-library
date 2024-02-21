@@ -1,5 +1,5 @@
 Path:D:\Library\ad-carrot-library\library\Project Outputs for carrot_lib\carrot_lib.IntLib
-Components Count:273
+Components Count:274
 IntLib Component Name:
 23LC1024
 24LC256
@@ -242,6 +242,7 @@ TMP112
 TP4056
 TPS54302
 TPS54360
+TPS560430
 TPS563200
 TPS61030PWP
 TPS61032PWP
