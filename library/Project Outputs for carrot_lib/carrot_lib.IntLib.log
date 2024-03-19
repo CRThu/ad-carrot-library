@@ -1,5 +1,5 @@
 Path:D:\Library\ad-carrot-library\library\Project Outputs for carrot_lib\carrot_lib.IntLib
-Components Count:274
+Components Count:281
 IntLib Component Name:
 23LC1024
 24LC256
@@ -135,6 +135,7 @@ Link-3X10
 Link-3X8
 LM2731
 LM2733
+LM393
 LM5007
 LM5164
 LMR14030
@@ -176,6 +177,7 @@ MPU6050
 NE5532
 NEO-M8N
 NPN
+NPN2
 NSL32SR3
 OP AMP 1#
 OP AMP 2#
@@ -189,6 +191,9 @@ OPA847
 PassiveAntenna
 PGB1010603
 PNP
+PNP2
+REF5025
+REF5050
 Relay-DPDT
 Relay-SPDT
 Res
@@ -237,6 +242,8 @@ TL082
 TL431
 TLV3501
 TLV3502
+TLV9002
+TLV9102
 TMP102
 TMP112
 TP4056
