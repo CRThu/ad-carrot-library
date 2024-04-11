@@ -1,5 +1,5 @@
 Path:D:\Library\ad-carrot-library\library\Project Outputs for carrot_lib\carrot_lib.IntLib
-Components Count:281
+Components Count:283
 IntLib Component Name:
 23LC1024
 24LC256
@@ -186,6 +186,8 @@ OP2177
 OPA1612
 OPA1637
 OPA1656
+OPA189
+OPA211
 OPA827
 OPA847
 PassiveAntenna
