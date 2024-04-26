@@ -1,5 +1,5 @@
 Path:D:\Library\ad-carrot-library\library\Project Outputs for carrot_lib\carrot_lib.IntLib
-Components Count:283
+Components Count:284
 IntLib Component Name:
 23LC1024
 24LC256
@@ -39,6 +39,7 @@ Cap
 Cap2
 Cap-Film
 Cap-Tantalum
+CH224K
 CH340C
 CH340E
 CON BTB 80P
