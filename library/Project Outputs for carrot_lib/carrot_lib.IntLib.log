@@ -1,5 +1,5 @@
 Path:D:\Library\ad-carrot-library\library\Project Outputs for carrot_lib\carrot_lib.IntLib
-Components Count:284
+Components Count:285
 IntLib Component Name:
 23LC1024
 24LC256
@@ -125,6 +125,7 @@ IS61LV51216
 IS61WV102416
 JTAG-XILINX
 Jumper
+Jumper-3X1
 KF301-3P
 L7805
 LED
